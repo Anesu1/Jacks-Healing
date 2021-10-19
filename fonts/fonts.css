@@ -1,0 +1,44 @@
+@font-face{
+    font-family: "akrobat regular";
+    font-style: normal;
+    src: url("./OTF/Akrobat-Regular.otf"),
+            url("./TTF/Akrobat-Regular.ttf"),
+            url("./WEB/Akrobat-Regular.woff"),
+            url("./WEB/Akrobat-Regular.woff2");
+}
+@font-face{
+    font-family: "akrobat bold";
+    font-style: normal;
+    src:url("./OTF/Akrobat-Bold.otf"),
+        url("./TTF/Akrobat-Bold.ttf"),
+        url("./WEB/Akrobat-Bold.eot"),
+        url("./WEB/Akrobat-Bold.woff"),
+        url("./WEB/Akrobat-Bold.woff2");
+}
+@font-face{
+    font-family: "akrobat extrabold";
+    font-style: normal;
+    src: url("./OTF/Akrobat-ExtraBold.otf"),
+        url("./TTF/Akrobat-ExtraBold.ttf"),
+        url("./WEB/Akrobat-ExtraBold.eot"),
+        url("./WEB/Akrobat-ExtraBold.woff"),
+        url("./WEB/Akrobat-ExtraBold.woff2");
+}
+@font-face{
+    font-family: "akrobat black";
+    font-style: normal;
+    src: url("./OTF/Akrobat-Black.otf"),
+        url("./TTF/Akrobat-Black.ttf"),
+        url("./WEB/Akrobat-Black.eot"),
+        url("./WEB/Akrobat-Black.woff"),
+        url("./WEB/Akrobat-Black.woff2");
+}
+@font-face{
+    font-family: "akrobat semibold";
+    font-style:normal;
+    src: url("./OTF/Akrobat-SemiBold.otf"),
+        url("./TTF/Akrobat-SemiBold.ttf"),
+        url("./WEB/Akrobat-SemiBold.eot"),
+        url("./WEB/Akrobat-SemiBold.woff"),
+        url("./WEB/Akrobat-SemiBold.woff2");
+}
